@@ -4,4 +4,7 @@ while array[counter] do
   array[counter] = counter**2
   counter +=1
 end
-array = [1,2,3,4,5]
+
+array1 = [1,2,3,4,5]
+
+square_array(array1)
